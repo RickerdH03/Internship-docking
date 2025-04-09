@@ -1,0 +1,98 @@
+CRYST1  166.432  166.432  149.459  90.00  90.00 120.00 P 3 2 1       1
+HETATM    1  C1  BGC C   1      81.665 -30.734 -54.782  1.00 51.75      C    C  
+HETATM    2  O1  BGC C   1      82.203 -31.426 -53.734  1.00 56.45      C    O  
+HETATM    3  C2  BGC C   1      82.284 -31.123 -56.117  1.00 50.23      C    C  
+HETATM    4  O2  BGC C   1      83.684 -30.856 -56.083  1.00 38.90      C    O  
+HETATM    5  C3  BGC C   1      81.539 -30.344 -57.204  1.00 47.60      C    C  
+HETATM    6  O3  BGC C   1      81.957 -30.625 -58.532  1.00 41.58      C    O  
+HETATM    7  C4  BGC C   1      80.047 -30.600 -57.115  1.00 45.13      C    C  
+HETATM    8  O4  BGC C   1      79.376 -29.740 -57.991  1.00 45.90      C    O  
+HETATM    9  C5  BGC C   1      79.496 -30.311 -55.749  1.00 51.32      C    C  
+HETATM   10  O5  BGC C   1      80.274 -31.043 -54.783  1.00 53.91      C    O  
+HETATM   11  C6  BGC C   1      78.059 -30.780 -55.590  1.00 56.69      C    C  
+HETATM   12  O6  BGC C   1      77.578 -30.397 -54.303  1.00 62.12      C    O  
+HETATM   13  C1  GAL C   2      78.652 -30.488 -58.969  1.00 48.63      C    C  
+HETATM   14  C2  GAL C   2      77.599 -29.487 -59.426  1.00 49.81      C    C  
+HETATM   15  O2  GAL C   2      76.820 -28.923 -58.382  1.00 35.74      C    O  
+HETATM   16  C3  GAL C   2      76.728 -30.165 -60.395  1.00 50.37      C    C  
+HETATM   17  O3  GAL C   2      75.728 -29.210 -60.684  1.00 42.49      C    O  
+HETATM   18  C4  GAL C   2      77.592 -30.514 -61.602  1.00 56.04      C    C  
+HETATM   19  O4  GAL C   2      78.195 -29.303 -62.092  1.00 46.82      C    O  
+HETATM   20  C5  GAL C   2      78.725 -31.463 -61.212  1.00 60.43      C    C  
+HETATM   21  O5  GAL C   2      79.464 -30.889 -60.095  1.00 59.34      C    O  
+HETATM   22  C6  GAL C   2      79.725 -31.668 -62.348  1.00 67.82      C    C  
+HETATM   23  O6  GAL C   2      81.068 -31.882 -61.874  1.00 61.23      C    O  
+HETATM   24  C1  NAG C   3      74.378 -29.621 -60.688  1.00 43.04      C    C  
+HETATM   25  C2  NAG C   3      73.518 -28.538 -61.368  1.00 40.60      C    C  
+HETATM   26  N2  NAG C   3      73.669 -27.167 -60.911  1.00 41.78      C    N  
+HETATM   27  C3  NAG C   3      72.047 -28.968 -61.292  1.00 39.99      C    C  
+HETATM   28  O3  NAG C   3      71.413 -27.982 -62.096  1.00 37.82      C    O  
+HETATM   29  C4  NAG C   3      71.846 -30.417 -61.801  1.00 37.63      C    C  
+HETATM   30  O4  NAG C   3      70.541 -30.955 -61.552  1.00 30.88      C    O  
+HETATM   31  C5  NAG C   3      72.821 -31.353 -61.072  1.00 41.61      C    C  
+HETATM   32  O5  NAG C   3      74.167 -30.897 -61.279  1.00 39.19      C    O  
+HETATM   33  C6  NAG C   3      72.811 -32.788 -61.546  1.00 38.99      C    C  
+HETATM   34  O6  NAG C   3      73.202 -32.858 -62.934  1.00 33.67      C    O  
+HETATM   35  C7  NAG C   3      74.134 -26.769 -59.714  1.00 41.80      C    C  
+HETATM   36  O7  NAG C   3      74.318 -27.542 -58.770  1.00 47.71      C    O  
+HETATM   37  C8  NAG C   3      74.490 -25.322 -59.593  1.00 43.52      C    C  
+HETATM   38  C1  GAL C   4      70.072 -27.530 -61.687  1.00 36.75      C    C  
+HETATM   39  C2  GAL C   4      69.672 -26.215 -62.381  1.00 28.77      C    C  
+HETATM   40  O2  GAL C   4      70.274 -25.160 -61.658  1.00 27.61      C    O  
+HETATM   41  C3  GAL C   4      68.141 -26.030 -62.562  1.00 31.66      C    C  
+HETATM   42  O3  GAL C   4      67.880 -25.393 -63.814  1.00 29.10      C    O  
+HETATM   43  C4  GAL C   4      67.358 -27.314 -62.620  1.00 31.20      C    C  
+HETATM   44  O4  GAL C   4      67.579 -27.838 -63.923  1.00 34.11      C    O  
+HETATM   45  C5  GAL C   4      67.855 -28.355 -61.649  1.00 43.67      C    C  
+HETATM   46  O5  GAL C   4      69.216 -28.627 -62.050  1.00 35.74      C    O  
+HETATM   47  C6  GAL C   4      67.053 -29.665 -61.647  1.00 41.35      C    C  
+HETATM   48  O6  GAL C   4      67.038 -30.415 -62.854  1.00 28.67      C    O  
+CONECT    1    2    3   10
+CONECT    2    1
+CONECT    3    1    4    5
+CONECT    4    3
+CONECT    5    3    6    7
+CONECT    6    5
+CONECT    7    5    8    9
+CONECT    8    7   13
+CONECT    9    7   10   11
+CONECT   10    1    9
+CONECT   11    9   12
+CONECT   12   11
+CONECT   13    8   14   21
+CONECT   14   13   15   16
+CONECT   15   14
+CONECT   16   14   17   18
+CONECT   17   16   24
+CONECT   18   16   19   20
+CONECT   19   18
+CONECT   20   18   21   22
+CONECT   21   13   20
+CONECT   22   20   23
+CONECT   23   22
+CONECT   24   17   25   32
+CONECT   25   24   26   27
+CONECT   26   25   35
+CONECT   27   25   28   29
+CONECT   28   27   38
+CONECT   29   27   30   31
+CONECT   30   29
+CONECT   31   29   32   33
+CONECT   32   24   31
+CONECT   33   31   34
+CONECT   34   33
+CONECT   35   26   36   37
+CONECT   36   35
+CONECT   37   35
+CONECT   38   28   39   46
+CONECT   39   38   40   41
+CONECT   40   39
+CONECT   41   39   42   43
+CONECT   42   41
+CONECT   43   41   44   45
+CONECT   44   43
+CONECT   45   43   46   47
+CONECT   46   38   45
+CONECT   47   45   48
+CONECT   48   47
+END
